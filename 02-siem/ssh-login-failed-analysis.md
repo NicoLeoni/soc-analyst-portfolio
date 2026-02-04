@@ -23,7 +23,7 @@ either user error or automated brute force activity.
 At this stage, no successful login related to these attempts was observed.
 
 ## Next steps
-- Correlate attempts by source IP
+- Correlate attempts by source IP 
 - Check for successful authentication after failures
 - Implement alerting for repeated failed logins
 
